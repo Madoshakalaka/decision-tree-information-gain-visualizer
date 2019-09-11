@@ -1,4 +1,4 @@
-Generate intermediate calculations for information gain algorithm
+Generate intermediate calculation for information gain algorithm
 
 
 given table:
